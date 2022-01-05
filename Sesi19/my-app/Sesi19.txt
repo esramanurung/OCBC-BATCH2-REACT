@@ -1,0 +1,5 @@
+link explore: https://reactjs.org/docs/strict-mode.html
+
+Teman-teman, untuk link codeshare ada di sini ya:
+https://codeshare.io/9OmwbV
+
