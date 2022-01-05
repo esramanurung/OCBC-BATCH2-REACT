@@ -1,0 +1,11 @@
+https://reactjs.org/docs/hooks-intro.html
+https://reactjs.org/docs/strict-mode.html
+
+
+===create app==
+npx create-react-app my-app
+npx create-react-app realtime-clock
+
+
+https://codeshare.io/r9PMlv
+
